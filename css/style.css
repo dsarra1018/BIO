@@ -27,3 +27,8 @@ h2 {
 a {
     color: #d21034;
 }
+
+.container {
+    width: 1024px;
+    margin: auto;
+}
